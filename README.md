@@ -51,7 +51,7 @@ Bu sayede, bulunma olasılığı yüksek pikseller arası fazlaca açılırken, 
 
 ![](images/4.png)
 
-![](images/5.png)
+  ![](images/5.png)
 
 ## Hİstogramdan Elde Edilen Bilgiler
 
