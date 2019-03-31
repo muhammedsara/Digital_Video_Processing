@@ -23,9 +23,9 @@ Verilen kötü kontraslı bir görüntüyü iyileştirmek için, görüntünün 
 
 ![](images/1.png)
 
-![](images/2.png)
+ ![](images/2.png)
 
-![](images/3.png)
+ ![](images/3.png)
 
 ## Histogram Eşitleme ( Histogram Equalization)
 
