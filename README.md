@@ -20,12 +20,11 @@ Verilen kötü kontraslı bir görüntüyü iyileştirmek için, görüntünün 
 + Kötü kontraslı resimlerin (histogramı dar bir alana yayılmış görüntüler), kontraslarını iyileştirmek için bir genel yöntemdir. Temel espirisi histogramı geniş bir bölgeye yaymaktır. Varsayalım ki histogramı ve ilişkin tablosu aşağıda verilen bir görüntüye sahibiz. 
 
 
-
 ![](images/1.png)
 
- ![](images/2.png)
+![](images/2.png)
 
- ![](images/3.png)
+![](images/3.png)
 
 ## Histogram Eşitleme ( Histogram Equalization)
 
