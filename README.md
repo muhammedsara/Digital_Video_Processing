@@ -26,6 +26,7 @@ Verilen kötü kontraslı bir görüntüyü iyileştirmek için, görüntünün 
 
 ![](images/3.png)
 
+
 ## Histogram Eşitleme ( Histogram Equalization)
 
 + Amaç: İmgedeki düşük görünürlüğü iyileştirmek. 
@@ -73,3 +74,4 @@ Bu sayede, bulunma olasılığı yüksek pikseller arası fazlaca açılırken, 
 + Histogram aynı zamanda, daraltma, genişletme veya kaydırma işlemleri için bir karşılık düşürme fonksiyonu ile de değiştirilebilir. Histogram genişletme ve daraltma gri seviyesi değişimleri biçimindedir ve bazen histogram boyutlandırma olarakta adlandırılır.
 
 ![](images/7.png)
+
